@@ -1,3 +1,10 @@
+#IA{
+    max-width: 300px;
+    
+    border-radius: 100%;
+    
+}
+
 body{
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -8,6 +15,7 @@ body{
     align-items: center;
     height: 100vh;
 }
+
 
 .container{
     text-align: center;
